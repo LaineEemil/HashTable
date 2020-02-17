@@ -10,7 +10,6 @@ Put, Get and Remove can be utilized.
 Initial size of HashTable can be set. Default value is 12 but it increases as more values are inputed to the HashTable.
 
 HashTable can also do 3 different operations UNION, OR AND XOR.
-
 Values from these operations are returned as LinkedLists to the main-class.
 
 
