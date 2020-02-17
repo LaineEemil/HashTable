@@ -6,7 +6,7 @@ import java.util.*;
  *
  * Eemil Laine eemil.laine@tuni.fi
  * 
- * Ohjelma, joka tuottaa kahdesta numeorilla täytetyistä tiedostoista.
+ * Ohjelma, joka tuottaa kahdesta numeroilla täytetyistä tiedostoista.
  * 3 tiedostoa, joihin on ajettu joukko-operaatiot: UNION, LEIKKAUS JA XOR.
  * Ohjelma lukee tiedostot nimeltään: setA.txt ja setB.txt.
  * Tiedostoista luetaan rivin ensimmäinen numero ja jos tuon numeron arvo on alle 999999999.
